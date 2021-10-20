@@ -1,2 +1,2 @@
-config:
-  info: v1.0
+server:
+  port: 3344
